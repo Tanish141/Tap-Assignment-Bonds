@@ -16,9 +16,6 @@ A modern Flutter app for browsing and analyzing bonds, built for the Tap assignm
 - **Charts:** fl_chart for financial visualizations
 - **Image Loading:** cached_network_image, shimmer, lottie for loading states
 
-## Screenshots
-
-> _Add screenshots here_
 
 ## Getting Started
 
